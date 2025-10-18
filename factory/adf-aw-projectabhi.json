@@ -1,0 +1,9 @@
+{
+	"name": "adf-aw-projectabhi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7676f253-f004-4744-81ee-3f536b9796c9",
+		"tenantId": "65f76c14-68c9-40d3-8787-25d4e5a05e33"
+	}
+}
